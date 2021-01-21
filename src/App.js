@@ -9,6 +9,7 @@ function App() {
       <CountFunc />
       <h2>類別型元件</h2>
       <CountClass />
+      123
     </>
   )
 }
